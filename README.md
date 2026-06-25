@@ -1,4 +1,4 @@
-# Caracterização da Rede de Soro Antiveneno de São Paulo
+# Caracterização da Rede de Soro Antiveneno de São Paulo: Uma Análise a Partir de Dados Públicos
 
 Projeto desenvolvido no âmbito do **Data Science for Social Good Brazilian Workshop (DS4SG)**, realizado durante o **41º Simpósio Brasileiro de Banco de Dados (SBBD)**.
 
