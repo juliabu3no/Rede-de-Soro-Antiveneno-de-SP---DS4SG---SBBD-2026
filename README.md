@@ -25,7 +25,7 @@ As análises utilizam principalmente:
 * Dados dos Pontos Estratégicos para Soro Antiveneno (PESA);
 * Bases cartográficas e dados populacionais.
 
-Observação: O notebook com a visualização dos mapas, precisou ser anexado em .py, mas pode ser acessado em .ipynb no link:https://drive.google.com/file/d/1hSvNA18QLPVFBjcB-V8REJPPAAyy0DAn/view?usp=sharing
+Observação: O notebook com a visualização dos mapas precisou ser anexado em .py, por causa do seu tamanho, mas pode ser acessado em .ipynb no link: https://drive.google.com/file/d/1hSvNA18QLPVFBjcB-V8REJPPAAyy0DAn/view?usp=sharing
 
 ## Autores
 
